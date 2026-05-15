@@ -1,4 +1,4 @@
-# Neon Stream - Database-Free JavaFX Media Player
+# Database-Free JavaFX Media Player
 
 An intermediate-level JavaFX desktop multimedia application that manages a music playlist entirely in system memory. Instead of a traditional database, this project utilizes a custom **Doubly Linked List** data structure to manage track order, navigation, and queue manipulation in real-time.
 
